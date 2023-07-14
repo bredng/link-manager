@@ -3,6 +3,10 @@ A chrome extension to store links.
 
 Project by Scrimba: https://scrimba.com/learn/learnjavascript/
 
+Preview the extension: https://bredng.github.io/link-manager/ 
+
+![How it looks](extension-preview.jpg)
+
 ## How to install
 1. Download ZIP
 2. Go to chrome://extensions/ 
