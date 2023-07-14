@@ -5,8 +5,6 @@ Project by Scrimba: https://scrimba.com/learn/learnjavascript/
 
 Preview the extension: https://bredng.github.io/link-manager/ 
 
-![](extension-preview.jpg **=829x373**)
-
 ## How to install
 1. Download ZIP
 2. Go to chrome://extensions/ 
